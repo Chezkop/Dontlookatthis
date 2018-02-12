@@ -26,7 +26,7 @@ namespace ConsoleApp3
             firstNumber = Convert.ToDouble(firstString);
 
            Console.WriteLine();
-            //hello
+            
 
              Console.Write("Second Number: ");
             secondString = Console.ReadLine();
